@@ -1,0 +1,1 @@
+for %%i in (*.jpg) do PicCover.bat cover %%i
